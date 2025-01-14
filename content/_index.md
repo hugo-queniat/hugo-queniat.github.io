@@ -93,8 +93,8 @@ sections:
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: 
-      text:
+      title: 👉 Build your own academic website like this
+      text: |-
 
       button:
         text: 
