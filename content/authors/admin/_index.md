@@ -140,6 +140,8 @@ languages:
 awards:
 ---
 
+## About Me
+
 I am a first-year PhD student in the Statistics CDT at the University of Warwick working under the supervision of Prof. Gareth Roberts. My research interests lie in the area of Monte Carlo methods and probabilistic machine learning. Currently, I am working on tempering techniques to sample from multimodal target distributions. My work is part of the OCEAN research grant. 
 
 Prior to joining the University of Warwick, I completed the MSc Mathematics Vision Learning from École Normale Supérieure. My master's thesis, titled "Exploring the Limits of ALPS", was completed here in Warwick and supervised by Prof. Gareth Roberts. It focused on the ALPS sampler, trying to expand its applications outside of traditional scenarios. At the same time, I completed the Meng in Statistics and Machine Learning from Télécom Paris.
