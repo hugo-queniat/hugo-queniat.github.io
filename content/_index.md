@@ -17,7 +17,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: grey
   - block: collection
     id: news
     content:
