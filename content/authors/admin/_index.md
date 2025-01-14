@@ -26,6 +26,8 @@ role: 1st year PhD student
 organizations:
   - name: Department of Statistics, University of Warwick
     url: https://warwick.ac.uk/fac/sci/statistics/
+  - name: Ocean ERC
+	url: https://oceanerc.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
