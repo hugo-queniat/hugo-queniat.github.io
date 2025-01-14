@@ -59,7 +59,7 @@ education:
     summary: |
       GPA: 4.0/4.0
 
-  - area: MEng StatsML ("Diplôme d'ingénieur")
+  - area: MEng Stats & Machine Learning ("Diplôme d'ingénieur")
     institution: Télécom Paris
     date_start: 2021-09-01
     date_end: 2024-09-30

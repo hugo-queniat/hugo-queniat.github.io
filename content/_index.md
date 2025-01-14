@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: 
+        url: 
     design:
       css_class: dark
       background:
@@ -30,7 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: collection
+"""  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -60,7 +60,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      columns: 1"""
   - block: collection
     id: news
     content:
