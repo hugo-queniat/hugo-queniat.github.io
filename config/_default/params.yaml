@@ -31,7 +31,8 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    fixed_to_top: true
+    align: "right"
+    fixed_to_top: false
     show_search: true
     show_theme_chooser: true
     logo:
