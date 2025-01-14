@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 1st year PhD student
+role: PhD Student in Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -59,8 +59,8 @@ education:
     summary: |
       GPA: 4.0/4.0
 
-  - area: MEng Statistics and Machine Learning ("Diplôme d'ingénieur")
-    institution: Massachusetts Institute of Technology
+  - area: MEng StatsML ("Diplôme d'ingénieur")
+    institution: Télécom Paris
     date_start: 2021-09-01
     date_end: 2024-09-30
     summary: |
