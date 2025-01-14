@@ -41,9 +41,12 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Parallel Tempering
+  - Sampling from multimodal targets
+  - Probabilistic Machine Learning
+  - Generative modelling and diffusion models
+  - Reinforcement Learning
+  - Statistics in Sport
 
 education:
   - area: PhD Computational Statistics & Machine Learning
@@ -166,4 +169,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a first-year PhD student in the Statistics CDT at the University of Warwick working under the supervision of Prof. Gareth Roberts. My research interests lie in the  are of Monte Carlo methods and probabilistic machine learning. Currently, I am working on tempering techniques to sample from multimodal target distributions. My work is part of the OCEAN research grant. 
+
+Prior to joining the University of Warwick, I completed the MSc Mathematics Vision Learning from École Normale Supérieure. My master's thesis, titled "Exploring the Limits of ALPS", was completed here in Warwick and supervised by Prof. Gareth Roberts. It focused on the ALPS sampler and trying to expand its applications outside of traditional scenarios.
