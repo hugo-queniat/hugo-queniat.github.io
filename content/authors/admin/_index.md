@@ -49,7 +49,7 @@ education:
   - area: PhD Computational Statistics & Machine Learning
     institution: University of Warwick
     date_start: 2024-10-01
-    date_end: present
+    date_end: 2028-09-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
   - area: MSc Mathematics Vision Learning ("Master MVA")
