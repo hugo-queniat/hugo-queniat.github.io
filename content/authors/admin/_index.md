@@ -48,20 +48,20 @@ interests:
   - Statistics in Sport
 
 education:
-  - area: PhD Computational Statistics & Machine Learning
+  - area: PhD in Statistics, 2024-present
     institution: University of Warwick
     date_start: 2024-10-01
     date_end: 2028-09-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-  - area: MSc Mathematics Vision Learning ("Master MVA")
+  - area: MSc Mathematics Vision Learning ("Master MVA"), 2024
     institution: École Normale Supérieure Paris-Saclay
     date_start: 2023-09-01
     date_end: 2024-09-30
     summary: |
       GPA: 4.0/4.0
 
-  - area: MSc in Engineering ("Diplôme d'ingénieur")
+  - area: MSc in Engineering ("Diplôme d'ingénieur"), 2024
     institution: Télécom Paris
     date_start: 2021-09-01
     date_end: 2024-09-30
