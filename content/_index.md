@@ -15,7 +15,7 @@ sections:
       username: admin
       text: ""
     design:
-      css_class: dark
+      css_class: blue
       background:
         color: #4A4859
   - block: collection
@@ -47,18 +47,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
-    content:
-      title: 👉 Build your own academic website like this
-      text: |-
-
-      button:
-        text: 
-        url: 
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
