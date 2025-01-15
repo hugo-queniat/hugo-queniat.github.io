@@ -8,6 +8,7 @@ appearance:
   mode: dark
   color: emerald
   font: 'native'
+  font_size: M
 
 # SEO
 marketing:
