@@ -61,7 +61,7 @@ education:
     summary: |
       GPA: 4.0/4.0
 
-  - area: MEng Stats & Machine Learning ("Diplôme d'ingénieur")
+  - area: MSc in Engineering ("Diplôme d'ingénieur")
     institution: Télécom Paris
     date_start: 2021-09-01
     date_end: 2024-09-30
@@ -143,6 +143,6 @@ awards:
 
 ## About Me
 
-I am a first-year PhD student in the Statistics CDT at the University of Warwick working under the supervision of [Prof. Gareth Roberts]https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts). My research interests lie in the area of Monte Carlo methods and probabilistic machine learning. Currently, I am working on tempering techniques to sample from multimodal target distributions. My work is part of the [OCEAN](https://oceanerc.com) research grant. 
+I am a first-year PhD student in the Statistics CDT at the University of Warwick working under the supervision of [Prof. Gareth Roberts](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/roberts). My research interests lie in the area of Monte Carlo methods and probabilistic machine learning. Currently, I am working on tempering techniques to sample from multimodal target distributions. My work is part of the [OCEAN](https://oceanerc.com) research grant. 
 
-Prior to joining the University of Warwick, I completed the MSc [Mathematics Vision Learning](https://www.master-mva.com) from École Normale Supérieure. My master's thesis, titled "Exploring the Limits of ALPS", was completed here in Warwick and supervised by Prof. Gareth Roberts. It focused on the ALPS sampler, trying to expand its applications outside of traditional scenarios. At the same time, I completed the MSc in Engineering from [Télécom Paris](https://www.telecom-paris.fr/en/engineering).
+Prior to joining the University of Warwick, I completed the MSc [Mathematics Vision Learning](https://www.master-mva.com) from ENS Paris-Saclay. My master's thesis, titled "Exploring the Limits of ALPS", was completed here in Warwick and supervised by Prof. Gareth Roberts. It focused on the ALPS sampler, trying to expand its applications outside of traditional scenarios. At the same time, I completed the MSc in Engineering from [Télécom Paris](https://www.telecom-paris.fr/en/engineering).
