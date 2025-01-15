@@ -24,9 +24,10 @@ role: PhD Student in Statistics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Statistics, University of Warwick
+  - name: University of Warwick
     url: https://warwick.ac.uk/fac/sci/statistics/
 
+bio: PhD Student in Statistics [@WarwickStats](https://warwick.ac.uk/fac/sci/statistics/)
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
