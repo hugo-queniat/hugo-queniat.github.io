@@ -17,7 +17,7 @@ sections:
     design:
       css_class: blue
       background:
-        color: #4A4859
+        color: #0A3295
   - block: collection
     id: news
     content:
