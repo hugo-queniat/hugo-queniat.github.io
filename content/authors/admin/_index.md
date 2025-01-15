@@ -32,7 +32,7 @@ bio: PhD Student in Statistics [@WarwickStats](https://warwick.ac.uk/fac/sci/sta
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: enveloppe
+  - icon: envelope
     url: 'mailto:hugo.queniat@warwick.ac.uk'
     label: E-mail Me
   - icon: brands/github
