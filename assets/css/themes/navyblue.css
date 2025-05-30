@@ -1,0 +1,28 @@
+/* Hugo Blox color theme: BLUE */
+:root {
+	/* Navy Blue Palette */
+	--color-primary-50: 240 249 255;      /* #f0f9ff */
+	--color-primary-100: 224 242 254;     /* #e0f2fe */
+	--color-primary-200: 186 230 253;     /* #bae6fd */
+	--color-primary-300: 125 211 252;     /* #7dd3fc */
+	--color-primary-400: 56 189 248;      /* #38bdf8 */
+	--color-primary-500: 14 165 233;      /* #0ea5e9 */
+	--color-primary-600: 2 132 199;       /* #0284c7 */
+	--color-primary-700: 3 105 161;       /* #0369a1 */
+	--color-primary-800: 30 64 124;       /* #1e407c navy vibe */
+	--color-primary-900: 20 39 82;        /* #142752 navy blue */
+	--color-primary-950: 16 24 47;        /* #10182f navy/indigo black */
+	/* Navy Cyan Palette (plus froid que cyan Tailwind) */
+	--color-secondary-50: 236 254 255;    /* #ecfeff */
+	--color-secondary-100: 207 250 254;   /* #cffafe */
+	--color-secondary-200: 165 243 252;   /* #a5f3fc */
+	--color-secondary-300: 103 232 249;   /* #67e8f9 */
+	--color-secondary-400: 34 211 238;    /* #22d3ee */
+	--color-secondary-500: 6 182 212;     /* #06b6d4 */
+	--color-secondary-600: 8 145 178;     /* #0891b2 */
+	--color-secondary-700: 14 116 144;    /* #0e7490 */
+	--color-secondary-800: 22 82 112;     /* #165270 navy cyan */
+	--color-secondary-900: 17 47 71;      /* #112f47 deep navy cyan */
+	--color-secondary-950: 10 23 37;      /* #0a1725 navy/black cyan */
+  }
+  
